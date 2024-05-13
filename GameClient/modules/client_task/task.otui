@@ -1,0 +1,13 @@
+MainWindow
+  !text: tr('Task')
+  size: 400 400
+
+  @onEnter: modules.task.destroy()
+  @onEscape: modules.task.destroy()
+
+  Button
+    id: taskButton
+    !text: tr('test')
+    width: 128
+    height: 32
+    @onClick: modules.task.trigger()

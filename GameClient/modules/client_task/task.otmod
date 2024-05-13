@@ -1,0 +1,9 @@
+Module
+  name: task
+  description: Task module test
+  author: Cigi
+  website: www.github.com/raiwulf
+  sandboxed: true
+  scripts: [ task.lua ]
+  @onLoad: init()
+  @onUnload: terminate()

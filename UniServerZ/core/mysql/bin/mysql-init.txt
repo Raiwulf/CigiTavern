@@ -1,0 +1,4 @@
+FLUSH PRIVILEGES;
+ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'sqlpw';
+ALTER USER 'pma'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'sqlpw';
+FLUSH PRIVILEGES;
