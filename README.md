@@ -4,8 +4,7 @@
 
 mySQL password:
 
-https://github.com/Raiwulf/CigiTavern/blob/cd24632d9fc47167e93f507208b2cf39ce4b097b/UniServerZ/htpasswd/mysql/passwd.txt#L1
-
+https://github.com/Raiwulf/CigiTavern/blob/fbdf2582c5421c9543676ec40a9747bed3d1a8d0/UniServerZ/htpasswd/mysql/passwd.txt#L1
 
 //LOGIN
 
