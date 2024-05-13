@@ -9,7 +9,7 @@ https://github.com/Raiwulf/CigiTavern/blob/cd24632d9fc47167e93f507208b2cf39ce4b0
 
 //LOGIN
 
-![image](https://github.com/Raiwulf/CigiTavern/assets/16378092/fea7d033-95e8-4703-a129-e5ec705fbb44)
+![image](https://github.com/Raiwulf/CigiTavern/assets/16378092/04298f17-6e47-44fb-ba65-9ca02d4e7d07)
 
 name : 
 
@@ -46,4 +46,4 @@ testacc
 
  //CUSTOM MODULE
 
- ![image](https://github.com/Raiwulf/CigiTavern/assets/16378092/517febcd-c69d-4495-9d91-bb18e27988e2)
+![image](https://github.com/Raiwulf/CigiTavern/assets/16378092/25c4c861-8108-42a1-877f-361f9330e72c)
