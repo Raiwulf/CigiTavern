@@ -2,6 +2,10 @@
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/V48-Qp4gi4U)](https://youtu.be/V48-Qp4gi4U)
 
+//UniServer
+
+Download here: https://drive.google.com/file/d/1axjEAhryszY3PfKJwGl3-fFXE8cI2YWV/view?usp=sharing
+
 mySQL password:
 
 https://github.com/Raiwulf/CigiTavern/blob/fbdf2582c5421c9543676ec40a9747bed3d1a8d0/UniServerZ/htpasswd/mysql/passwd.txt#L1
