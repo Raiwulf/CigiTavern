@@ -2,9 +2,19 @@
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/V48-Qp4gi4U)](https://youtu.be/V48-Qp4gi4U)
 
-//UniServer
+//BUILD
+
+UniServer
 
 Download here: https://drive.google.com/file/d/1axjEAhryszY3PfKJwGl3-fFXE8cI2YWV/view?usp=sharing
+
+GameClient
+
+Download here: https://drive.google.com/file/d/1HgtF_X2_oGBrC2lbGYrBmGfa3MaQA5n2/view?usp=sharing
+
+GameServer
+
+Download here: https://github.com/Raiwulf/CigiTavern/blob/master/GameServer.rar
 
 mySQL password:
 
